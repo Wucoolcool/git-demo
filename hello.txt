@@ -4,8 +4,10 @@ hello
 hello
 hello
 hello
-hello
-helo   master
+<<<<<<< HEAD
 hellds   222222
 hello  3333333
 ello 123456454
+ sdello  hefolx
+hello 123456454
+>>>>>>> hot-fix
